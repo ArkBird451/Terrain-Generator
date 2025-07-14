@@ -2,6 +2,10 @@
 
 A sophisticated web-based terrain generator that creates, erodes, textures, and visualizes 3D terrain using React and Three.js. The application features real-time parameter controls, web worker-based computations, and both 2D and 3D visualization modes.
 
+![Untitled2](https://github.com/user-attachments/assets/008ff47b-9842-4cda-88b9-01d8b3a8ef42)
+
+![Untitled](https://github.com/user-attachments/assets/861ef8cb-40d4-4dc9-bf4e-7a905276accc)
+
 ## Features
 
 - Procedural terrain generation using multiple noise algorithms
